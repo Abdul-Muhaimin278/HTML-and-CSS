@@ -1,0 +1,83 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    /* background: red; */
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(h2r.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.mainheader{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainheader .logo img{
+    width: 300px; height: 70px;
+    padding-left: 70px;
+    
+}
+.mainheader nav{
+    width: 300px; height: 70px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-right: 50 px;
+}
+.mainheader nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.menubtn{
+    margin-right: 60px;
+}
+.mainheader button{
+    padding: 10px 44px;
+    font-size: 11px;
+    border: none;
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(2, 198, 2),rgb(90, 90, 90),rgb(2,198,2));
+    border-radius: 10px
+}
+.left-sec h2{
+    font-size: 33px;
+    text-transform: capitalize;
+    margin-top: 66px;
+    font-weight: lighter;
+    color: rgb(2, 193, 2);
+}
+.left-sec h1{
+    text-transform: capitalize;
+    font-weight: lighter;
+    font-size: 44px;
+    margin: 2px;
+    color: gray;
+}
+.left-sec p{
+    margin: 4px;
+    text-transform: capitalize;
+    font-size: 22px;
+    color: red;
+}
+
+.left-sec button{
+    padding: 15px 44px;
+    font-size: 22px;
+    border: none;
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(2, 198, 2),rgb(90, 90, 90),rgb(2,198,2));
+    border-radius: 10px;
+}
+
+
+
+

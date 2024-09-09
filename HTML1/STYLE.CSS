@@ -1,0 +1,139 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+ }
+/* .boxmodel{
+    width: 400px;
+    height: 400px; 
+    background-color: crimson;
+padding-left: 10px;
+}
+
+input{ */
+/* padding: 5px opx 5px 5px; */
+
+    /* padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    margin-top: 200px;
+    margin-left: 35px;
+} */
+
+/* #fontcss{
+    font-family: 'Noto Serif', serif;
+     font-variant: small-caps;
+    font-size: 3em;
+/* font-weight: 100;     
+/* color: crimson;
+letter-spacing: 3px;
+word-spacing: 5px;
+direction: ltr;
+text-align: center;
+text-transform: uppercase; */
+/* text-indent: 10px; */
+/* font-style: italic; */
+
+
+/* a:link{
+    color: red;
+}
+a:visited{
+    color:blue;
+}
+a:hover{
+    color:green;
+} */
+/* a:active{ */
+    /* color:black; */
+
+ 
+/* .bordercss{ */
+   
+
+
+/* } */
+
+/* ul{
+    list-style-type: square;
+} */
+/* p{
+    width: 222px;
+    height: 108px;
+    border: 2px blue solid;
+    overflow: auto;
+} */
+
+/* .leader{
+    width: 800px;
+    height: 400px;
+    background-color: blue;
+    position: relative;
+}
+
+.bike1{
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+}
+.bike2{
+    width: 90px;
+    height: 90px;
+    background-color: darkgreen;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+}
+.bike3{
+    width: 90px;
+    height: 90px;
+    background-color: purple;
+    position: absolute;
+    bottom: 0;
+    right: 0; 
+}
+.bike4{
+    width: 90px;
+    height: 90px;
+    background-color: brown;
+    position: absolute;
+    left: 0;
+    bottom:0;
+} */
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    
+}
+.logo{
+    width: 30%;
+    line-height: 100px;
+    background-color: red;
+    text-align: center;
+    float: left;
+}
+.menu{
+    width: 70%;
+    line-height: 100px;
+    background-color: yellow;
+    float: right;
+}
+ul{
+    list-style: none;
+    /* direction: right; */
+    text-align: center;
+}
+li{
+    display: inline-block;
+    border: 5px black solid;
+    padding: 0px 10px ;
+}
+
+
+
+
+
+
